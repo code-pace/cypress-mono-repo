@@ -1,0 +1,4 @@
+cypress/downloads/*
+node_modules
+cypress/ticket-app-test
+cypress/pages/*
